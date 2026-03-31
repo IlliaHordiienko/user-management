@@ -1,0 +1,10 @@
+# Ignore environment files
+.env
+
+# Ignore IDE configuration folders
+.vscode/
+.idea/
+
+# Ignore OS junk files
+Thumbs.db
+.DS_Store
